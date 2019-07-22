@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment
+https://landing.google.com/sre/books/
