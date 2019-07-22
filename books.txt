@@ -1,2 +1,3 @@
 https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment
-https://landing.google.com/sre/books/
+https://landing.google.com/sre/books/ - Site Reliability Engineering book from Google
+https://ehmatthes.github.io/pcc/ - Python Crash Course
