@@ -1,1 +1,2 @@
 https://github.com/andrealmar/sre-university
+https://github.com/lorin/resilience-engineering/blob/master/intro.md
