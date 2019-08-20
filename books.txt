@@ -1,3 +1,8 @@
+Technical books:
 https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment
 https://landing.google.com/sre/books/ - Site Reliability Engineering book from Google
 https://ehmatthes.github.io/pcc/ - Python Crash Course
+
+Non-technical books:
+https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise
+https://www.goodreads.com/book/show/65229.Sources_of_Power
