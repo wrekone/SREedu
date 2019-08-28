@@ -6,3 +6,4 @@ https://ehmatthes.github.io/pcc/ - Python Crash Course
 Non-technical books:
 https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise
 https://www.goodreads.com/book/show/65229.Sources_of_Power
+https://www.effectiveengineer.com/book
