@@ -1,3 +1,4 @@
 https://blog.alicegoldfuss.com/how-to-get-into-sre/
 https://sreweekly.com/
 https://zugdud.io/index.php/2017/10/15/reflections-on-completing-all-7-aws-certifications/
+https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/#kubernetes-basic
