@@ -1,3 +1,4 @@
 https://www.vagrantup.com/
 https://learn.hashicorp.com/vault
 https://learn.hashicorp.com/terraform
+https://xebialabs.com/periodic-table-of-devops-tools/
