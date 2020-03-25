@@ -4,6 +4,7 @@ https://landing.google.com/sre/books/ - Site Reliability Engineering book from G
 https://ehmatthes.github.io/pcc/ - Python Crash Course
 https://www.bottomupcs.com/index.xhtml - Bottom Up Computer Science
 http://book.mixu.net/distsys/single-page.html - Distributed Systems for Fun and Profit
+https://git-scm.com/book/en/v2
 
 Non-technical books:
 https://en.wikipedia.org/wiki/Peak:_Secrets_from_the_New_Science_of_Expertise
