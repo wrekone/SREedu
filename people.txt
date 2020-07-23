@@ -2,3 +2,6 @@ https://blog.catchpoint.com/2020/02/14/top-50-sre-twitter-accounts-follow/
 Dana Lawson
 Rich Hickey
 Charity Majors
+Tim Heckman
+Lex Neva
+J. Paul Reed
