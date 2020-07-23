@@ -16,3 +16,6 @@ What Got You Here Won’t Get You There
 Never Split the Difference
 Atomic Habits
 How To Fail at Almost Everything and Still Win Big
+
+
+https://blog.catchpoint.com/2020/02/26/20-essential-books-for-site-reliability-engineers/
