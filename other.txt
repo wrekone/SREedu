@@ -1,3 +1,4 @@
 http://www.yolinux.com/
 https://drawings.jvns.ca/
 https://roadmap.sh/devops - DevOps Roadmap
+https://www.blameless.com/blog/top-sre-resources
