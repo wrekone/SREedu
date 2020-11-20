@@ -4,3 +4,4 @@ https://quii.gitbook.io/learn-go-with-tests/ - Learn Go with Test Driven Develop
 https://runestone.academy
 https://gophercises.com/
 https://www.coursera.org/learn/site-reliability-engineering-slos
+https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw - StatQuest with Josh Starmer
